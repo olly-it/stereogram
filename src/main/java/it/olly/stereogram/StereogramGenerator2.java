@@ -7,6 +7,12 @@ import java.io.File;
 
 import javax.imageio.ImageIO;
 
+/**
+ * Thanks to "Stereogram Tutorial" by Julio M. Otuyama (https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
+ * 
+ * @author alessio olivieri
+ *
+ */
 public class StereogramGenerator2 {
     static int patternWidth = 142;
 
